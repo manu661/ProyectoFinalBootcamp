@@ -1,0 +1,7 @@
+.pokemonImg {
+  object-fit: cover;
+}
+
+.firstBox {
+  background-image: url= ("Images/bosque5.jpg");
+}
